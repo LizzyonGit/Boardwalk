@@ -13,6 +13,6 @@ body {
 }
 
 h1 {
-    font-family: var(--seconday-font);
+    font-family: var(--secondary-font);
     color: var(--primary-color);
 }
