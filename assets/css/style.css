@@ -2,17 +2,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap');
 
 /*CSS variables*/
-:root{
-    --primary-font:Inter, sans-serif;
-    --secondary-font:Macondo, cursive;
-    --primary-color:blue;
+:root {
+    --primary-font: Inter, sans-serif;
+    --secondary-font: Macondo, cursive;
+    --primary-color: #3a2620;
 }
 
-body{
+body {
     font-family: var(--primary-font);
 }
 
-h1{
+h1 {
     font-family: var(--seconday-font);
     color: var(--primary-color);
 }
