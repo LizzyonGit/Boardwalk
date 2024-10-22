@@ -25,8 +25,16 @@ h1 {
     color:var(--highlight-color);
 }
 
+/*Navbar CSS*/
+#navbar {
+    background-color: var(--primary-color);
+}
 
-/*testing*/
+#navbar .logo {
+    width:30px;
+}
+
+/*testing
 .container, .row {
     border: 2px solid black;
 }
@@ -34,4 +42,4 @@ h1 {
 .col-12 {
     border:2px solid white;
     background-color: lightgrey;
-}
+}*/
