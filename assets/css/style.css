@@ -41,7 +41,7 @@ h1, h2, h3 {
     width:30px;
 }
 
-/*Heading styles*/
+/*Header styles*/
 #header .lead{
     font-family:var(--secondary-font);
 }
