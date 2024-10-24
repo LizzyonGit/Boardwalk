@@ -104,6 +104,10 @@ h2 {
     color: var(--secondary-color);
     transition: 0.3s ease-in-out;
 }
+/*all descendents of table-dark get transparent bg, otherwise it will not work*/
+#contact .table-dark * {
+    background-color: transparent;
+}
 
 /*testing
 .container, .row {
