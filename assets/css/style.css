@@ -67,9 +67,9 @@ h2 {
 
 
 
-/*New games styles*/
+/*New games and fav games styles*/
     
-#new-games .card {
+#new-games .card, #fav-games .card {
     border:none;
 }
 
