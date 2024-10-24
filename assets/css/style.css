@@ -40,6 +40,10 @@ h2 {
     margin-bottom: 2rem;
 }
 
+#services .card, #new-games .card, #fav-games .card {
+    margin-bottom: 1.5rem;
+}
+
 /*Navbar CSS*/
 #navbar {
     background-color: var(--primary-color);
@@ -61,11 +65,13 @@ h2 {
     background-color: transparent;
 }
 
-#services .card {
-    margin-bottom: 1.5rem;
+
+
+/*New games styles*/
+    
+#new-games .card {
+    border:none;
 }
-
-
 
 /*testing
 .container, .row {
