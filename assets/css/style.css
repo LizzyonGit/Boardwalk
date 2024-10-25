@@ -55,7 +55,7 @@ h2 {
 }
 
 .custom-button-outline {
-    /*background-color: white;*/
+    /*background-color: white; (not needed, possibly because on white background already*/
     color: var(--highlight-color);
     border: 2px solid var(--highlight-color);
     padding: 7px 25px;
