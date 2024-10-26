@@ -192,3 +192,11 @@ h2 {
     }
     
 }
+
+/*Max xs screens (does not work)
+@media screen and (max-width:360px) {
+    #events table *, #events table {
+        max-width:302px;
+    }
+    
+}*/
