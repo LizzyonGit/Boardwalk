@@ -193,10 +193,11 @@ h2 {
     
 }
 
-/*Max xs+ screens, padding in table a lot smaller than initial 0.5rem so the table fits without overflow/scroll*/
+/*Max xs+ screens, padding in table a lot smaller than initial 0.5rem and font size a little smaller so the table fits without overflow/scroll and exactly the same as CI*/
 @media screen and (max-width:360px) {
     #events table *, #events table {
-        padding:0.15rem;
+        padding:0.4rem;
+        font-size: 0.93em;
     }
     
 }
