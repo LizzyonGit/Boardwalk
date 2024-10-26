@@ -193,7 +193,7 @@ h2 {
     
 }
 
-/*Max xs+ screens, padding in table i bit over half the size so the table fits without overflow/scroll*/
+/*Max xs+ screens, padding in table a lot smaller than initial 0.5rem so the table fits without overflow/scroll*/
 @media screen and (max-width:360px) {
     #events table *, #events table {
         padding:0.15rem;
