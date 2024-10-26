@@ -107,8 +107,11 @@ h2 {
     border:none;
 }
 
-/*Game reservation*/
-
+/*Game reservation (not needed, fixed with bootstrap instead)
+#game-reservation .button-right {
+    display: flex;
+    justify-content: end;
+}*/
 
 /*footer styles*/
 
