@@ -100,11 +100,6 @@ h2 {
     font-weight: bold;
 }
 
-sup {
-    vertical-align: top;
-  }
-
-
 /*New games and fav games styles*/
     
 #new-games .card, #fav-games .card {
