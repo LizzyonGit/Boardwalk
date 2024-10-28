@@ -142,6 +142,8 @@ h2 {
 
 #contact .social-links i:hover {
     color: var(--secondary-color);
+    -webkit-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
     transition: 0.3s ease-in-out;
 }
 /*all descendents of table-dark get transparent bg, otherwise it will not work*/
